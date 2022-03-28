@@ -3,7 +3,7 @@
 .sconsign.dblite
 .svn/
 
-.DS_Store
+
 *.swp
 profile
 

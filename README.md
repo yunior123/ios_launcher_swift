@@ -1,6 +1,6 @@
 # ios_launcher_swift
 
-A new flutter plugin project.
+My own implementation of url launcher in swift
 
 ## Getting Started
 
