@@ -1,0 +1,22 @@
+PODS:
+  - Flutter (1.0.0)
+  - ios_launcher_swift (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - ios_launcher_swift (from `.symlinks/plugins/ios_launcher_swift/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  ios_launcher_swift:
+    :path: ".symlinks/plugins/ios_launcher_swift/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  ios_launcher_swift: 3b52e4c82a94bf7f4b9f3e8477b37a63e1296e58
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.11.3
