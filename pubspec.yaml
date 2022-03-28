@@ -1,7 +1,7 @@
 name: ios_launcher_swift
 description: A new flutter plugin project.
 version: 0.0.1
-homepage:
+repository: https://github.com/yunior123/ios_launcher_swift
 
 environment:
   sdk: ">=2.16.2 <3.0.0"
