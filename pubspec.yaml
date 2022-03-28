@@ -1,5 +1,5 @@
 name: ios_launcher_swift
-description: A new flutter plugin project.
+description: An implementation of url launcher in swift.
 version: 0.0.1
 repository: https://github.com/yunior123/ios_launcher_swift
 
