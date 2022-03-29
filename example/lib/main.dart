@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'dart:async';
 
 import 'package:flutter/services.dart';
 import 'package:ios_launcher_swift/ios_launcher_swift.dart';
@@ -26,6 +25,7 @@ class MyApp extends StatelessWidget {
                 await IosLauncherSwift.launchUrl(
                     "https://docs.swift.org/swift-book/LanguageGuide/TypeCasting.html");
               } on PlatformException {
+                // ignore: avoid_print
                 print('Failed to launch url.');
               }
             },
